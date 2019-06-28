@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/emmam42/S190510g_galaxies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emmam42/S190510g_galaxies/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Candidate Galaxies for S190510g</h2>
+<img src="galfig000.png" width="104" height="142">
+<img src="galfig001.png" width="104" height="142">
+<img src="galfig002.png" width="104" height="142">
+<img src="galfig003.png" width="104" height="142">
+<img src="galfig004.png" width="104" height="142">
+<img src="galfig005.png" width="104" height="142">
+<img src="galfig006.png" width="104" height="142">
+<img src="galfig007.png" width="104" height="142">
+<img src="galfig008.png" width="104" height="142">
+<img src="galfig009.png" width="104" height="142">
+<img src="galfig010.png" width="104" height="142">
+<img src="galfig011.png" width="104" height="142">
+<img src="galfig012.png" width="104" height="142">
+<img src="galfig013.png" width="104" height="142">
+<img src="galfig014.png" width="104" height="142">
+<img src="galfig015.png" width="104" height="142">
+<img src="galfig016.png" width="104" height="142">
+<img src="galfig017.png" width="104" height="142">
+<img src="galfig018.png" width="104" height="142">
+<img src="galfig019.png" width="104" height="142">
+<img src="galfig020.png" width="104" height="142">
+<img src="galfig021.png" width="104" height="142">
+<img src="galfig022.png" width="104" height="142">
+<img src="galfig023.png" width="104" height="142">
+<img src="galfig024.png" width="104" height="142">
+<img src="galfig025.png" width="104" height="142">
+<img src="galfig026.png" width="104" height="142">
+<img src="galfig027.png" width="104" height="142">
+<img src="galfig028.png" width="104" height="142">
+<img src="galfig029.png" width="104" height="142">
+<img src="galfig030.png" width="104" height="142">
+<img src="galfig031.png" width="104" height="142">
+<img src="galfig032.png" width="104" height="142">
+<img src="galfig033.png" width="104" height="142">
+<img src="galfig034.png" width="104" height="142">
+<img src="galfig035.png" width="104" height="142">
+<img src="galfig036.png" width="104" height="142">
+<img src="galfig037.png" width="104" height="142">
+<img src="galfig038.png" width="104" height="142">
+<img src="galfig039.png" width="104" height="142">
+<img src="galfig040.png" width="104" height="142">
+<img src="galfig041.png" width="104" height="142">
+<img src="galfig042.png" width="104" height="142">
+<img src="galfig043.png" width="104" height="142">
+<img src="galfig044.png" width="104" height="142">
+<img src="galfig045.png" width="104" height="142">
+<img src="galfig046.png" width="104" height="142">
+<img src="galfig047.png" width="104" height="142">
+<img src="galfig048.png" width="104" height="142">
+<img src="galfig049.png" width="104" height="142">
+<img src="galfig050.png" width="104" height="142">
+<img src="galfig051.png" width="104" height="142">
+<img src="galfig052.png" width="104" height="142">
+<img src="galfig053.png" width="104" height="142">
+<img src="galfig054.png" width="104" height="142">
+<img src="galfig055.png" width="104" height="142">
+<img src="galfig056.png" width="104" height="142">
+</body>
+</html>
