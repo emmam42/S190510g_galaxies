@@ -58,6 +58,21 @@
 <img src="galfig053.png" width="450" height="350">
 <img src="galfig054.png" width="450" height="350">
 <img src="galfig055.png" width="450" height="350">
-<img src="galfig056.png" width="450" height="350">
+<img src="galfig060.png" width="450" height="350">
+<img src="galfig061.png" width="450" height="350">
+<img src="galfig062.png" width="450" height="350">
+<img src="galfig063.png" width="450" height="350">
+<img src="galfig064.png" width="450" height="350">
+<img src="galfig065.png" width="450" height="350">
+<img src="galfig066.png" width="450" height="350">
+<img src="galfig067.png" width="450" height="350">
+<img src="galfig068.png" width="450" height="350">
+<img src="galfig069.png" width="450" height="350">
+<img src="galfig070.png" width="450" height="350">
+<img src="galfig071.png" width="450" height="350">
+<img src="galfig072.png" width="450" height="350">
+<img src="galfig073.png" width="450" height="350">
+<img src="galfig074.png" width="450" height="350">
+<img src="galfig075.png" width="450" height="350">
   </body>
 </html>
