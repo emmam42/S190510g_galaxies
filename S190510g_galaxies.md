@@ -2,7 +2,7 @@
 <html>
 <body>
 <h2>Candidate Galaxies for S190510g</h2>
-<img src="galfig000.png" width="450" height="350">
+<img src="galfig000.png" width="450" height="350"><img src="galfig000.png" width="450" height="350">
 <img src="galfig001.png" width="450" height="350">
 <img src="galfig002.png" width="450" height="350">
 <img src="galfig003.png" width="450" height="350">
