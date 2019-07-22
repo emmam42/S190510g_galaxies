@@ -4,7 +4,7 @@
 <h2>Candidate Galaxies for S190510g</h2>
 <div class="row">
 <div class="column">
-<img src="galfig000.png" width="250" height="194">
+<img src="galfig000.png" width="251" height="194">
 </div>
 <div class="column">
 <img src="ASKfig000.png" width="250" height="194">
